@@ -1,4 +1,4 @@
-Here’s an updated README for **Calculator Master** with image placeholders and personalized links to your GitHub project:
+
 
 ---
 
