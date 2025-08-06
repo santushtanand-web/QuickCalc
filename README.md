@@ -6,7 +6,12 @@
 
 **Calculator Master** is a modern, fully-responsive calculator web application designed to perform basic mathematical operations with a sleek user interface. This project is ideal for anyone looking to practice JavaScript, HTML, and CSS, and aims to enhance users' experience with intuitive and easy-to-use controls.
 
-Check out the live project here: [QuickCalc](quick-calc-topaz.vercel.app)
+
+---
+
+## User Interface
+<img width="1902" height="968" alt="image" src="https://github.com/user-attachments/assets/4f6706a3-a10b-4805-a2d0-485a87570a81" />
+
 ---
 
 ## Features
